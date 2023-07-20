@@ -1,0 +1,10 @@
+{
+  "terminal.integrated.allowMnemonics": true,
+  "terminal.integrated.cursorBlinking": false,
+  "python.testing.pytestArgs": ["."],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true,
+  "terminal.integrated.tabs.defaultColor": null,
+  "editor.fontSize": 16,
+  "editor.fontWeight": "normal"
+}

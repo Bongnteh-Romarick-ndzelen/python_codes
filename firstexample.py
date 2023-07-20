@@ -1,0 +1,6 @@
+fp = open("text.txt","w")
+fp.write("How was the first semster result")
+fp.write("\nHope you wrote well and you passed")
+fp.write("\nBut i trust you\nYou will probablily\nSucceed, more courage.")
+fp.write("\nHope you wrote well and you passed")
+fp.close()
